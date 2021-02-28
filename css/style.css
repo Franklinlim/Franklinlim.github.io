@@ -57,7 +57,7 @@ font-size:14px;
 
 /* =============================== header ===================================== */
 .header{
-background: url(../img/bghead.jpg) no-repeat center fixed;
+background: url(../img/background.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
@@ -369,6 +369,7 @@ max-width:100%
 .portfolio-item .thumbnail{
 margin:0;
 position:relative;
+text-align:center;
 }
 
 .linear{
